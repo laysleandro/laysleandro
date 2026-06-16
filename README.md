@@ -1,10 +1,40 @@
-- 👋 Hi, I’m @laysleandro;
-- 👀 I’m interested in challenges;
-- 🌱 I’m QA Engineer and I'm currently learning Python, CSS+HTML and JavaScript;
-- 💞️ I’m looking to collaborate on software creations and testing;
-- 📫 How to reach me : https://www.linkedin.com/in/vit%C3%B3ria-leandro-b5a9281a5/.
+# Olá, eu sou Vitória Leandro 👋
 
-<!---
-laysleandro/laysleandro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+QA Engineer com 5 anos de experiência em aplicações Web, APIs, sistemas embarcados e validação de firmware.
+
+## Áreas de Especialidade
+
+🔍 Testes Exploratórios
+
+🧪 Testes Funcionais e Regressivos
+
+⚡ Automação de Testes com Cypress
+
+🔗 Testes de API com Postman
+
+📟 Validação de Firmware
+
+📋 Planejamento e Estratégia de Testes
+
+🚀 Qualidade em Times Ágeis
+
+---
+
+## Ferramentas
+
+- Cypress
+- Postman
+- Jira
+- Confluence
+- Git
+- GitHub
+
+## Tecnologias
+
+- JavaScript
+- HTML
+- CSS
+
+---
+
+📫 LinkedIn: www.linkedin.com/in/vitória-leandro-b5a9281a5
