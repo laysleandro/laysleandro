@@ -1,26 +1,26 @@
-# Olá, eu sou Vitória Leandro 👋
+# Hi, I’m Vitória Leandro 👋
 
-QA Engineer com 5 anos de experiência em aplicações Web, APIs, sistemas embarcados e validação de firmware.
+QA Engineer with 5 years of experience in web applications, APIs, embedded systems, and firmware validation.
 
-## Áreas de Especialidade
+## Areas of Expertise
 
-🔍 Testes Exploratórios
+🔍 Exploratory Testing
 
-🧪 Testes Funcionais e Regressivos
+🧪 Functional and Regression Testing
 
-⚡ Automação de Testes com Cypress
+⚡ Test Automation with Cypress
 
-🔗 Testes de API com Postman
+🔗 API Testing with Postman
 
-📟 Validação de Firmware
+📟 Firmware Validation
 
-📋 Planejamento e Estratégia de Testes
+📋 Test Planning and Strategy
 
-🚀 Qualidade em Times Ágeis
+🚀 Quality in Agile Teams
 
 ---
 
-## Ferramentas
+## Tools
 
 - Cypress
 - Postman
@@ -29,7 +29,7 @@ QA Engineer com 5 anos de experiência em aplicações Web, APIs, sistemas embar
 - Git
 - GitHub
 
-## Tecnologias
+## Technologies
 
 - JavaScript
 - HTML
